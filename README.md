@@ -1,11 +1,11 @@
 # Data Challenge 2023 II
 
-El Data Challenge es un reto realizado por la Universidad del Norte para conocer a los bachilleres con mayor potencial en ciencia de datos.
+The Data Challenge is a competition held by the Universidad del Norte to identify the high school graduates with the greatest potential in data science.
 
-La edicion 2023 II fue realizada en conjunto con Bancolombia, el repositorio contiene el codigo y presentacion visual de autoria propia la cual fue la ganadora de este reto.
+The 2023 II edition was made in conjunction with Bancolombia, the repository contains the code and visual presentation of own authorship which was the winner of this challenge.
 
-## Contenido
+## Content
 
-**Archivo IPYNB:** Investigacion la cual utilizo un analisis exploratorio de los datos y diferentes modelos de aprendizaje supervisado entre estos, KNN Vecinos, Arbol de decision, Random Forest y Support Vector Machine, entrenados con una base de datos de 1055 noticias para evaluarlos en base a su su precisión, recall y exactitud. Con el objetivo de encontrar el modelo de clasificación de noticias más eficaz siendo los resultados discutidos y analizados para así brindar recomendaciones a Bancolombia con el fin que estos modelos puedan ser implementados por la empresa.
+**IPYNB File:** Research which used an exploratory analysis of the data and different supervised learning models among these, KNN Neighbors, Decision Tree, Random Forest and Support Vector Machine, trained with a database of 1055 news to evaluate them based on their precision, recall and accuracy. With the objective of finding the most effective news classification model based on tone (positive, negative), the results were discussed and analyzed in order to provide recommendations to Bancolombia so that these models can be implemented by the company.
 
-**Archivo PDF:** Presentacion visual la cual contiene todo el proceso de investigacion, resultados, discusion de los hallazgos, conclusion y recomendaciones.
+**PDF File:** Visual presentation which contains the entire research process, results, discussion of findings, conclusion and recommendations.
